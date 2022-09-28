@@ -88,3 +88,8 @@ local.properties
 
 # Project exclude paths
 /target/
+
+.settings/
+.classpath
+.project
+.springBeans
